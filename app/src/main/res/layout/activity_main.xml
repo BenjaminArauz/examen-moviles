@@ -44,7 +44,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Pokedex"
+                    android:text="Historia"
                     android:textColor="@color/semiWhite"
                     android:textStyle="bold"
                     android:gravity="center"
