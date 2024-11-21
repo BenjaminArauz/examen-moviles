@@ -20,7 +20,7 @@
         >
 
         <activity
-            android:name=".framework.views.activities.MainActivity"
+            android:name=".framework.views.activities.SplashScreenActivity"
             android:exported="true"
             android:theme="@style/Theme.Examen.NoActionBar"
             android:screenOrientation="portrait">
@@ -28,6 +28,13 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".framework.views.activities.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Examen.NoActionBar"
+            android:screenOrientation="portrait">
+
         </activity>
     </application>
 </manifest>
