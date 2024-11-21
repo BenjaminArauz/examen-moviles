@@ -13,8 +13,8 @@ import com.example.kotlin.examen.framework.adapter.viewholder.HistoriaViewHolder
 class HistoriaAdapter : RecyclerView.Adapter<HistoriaViewHolder>() {
     var data: ArrayList<HistoriaWrapper> = ArrayList()
 
-    fun HistoriaAdapter(data: ArrayList<HistoriaWrapper>) {
-        this.data = data
+    fun HistoriaAdapter(basicData: ArrayList<HistoriaWrapper>) {
+        this.data = basicData
     }
 
     /**

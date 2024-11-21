@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private val viewModel: MainViewModel by viewModels()
     private lateinit var recyclerView: RecyclerView
+    private lateinit var data: ArrayList<HistoriaWrapper>
     private val adapter: HistoriaAdapter = HistoriaAdapter()
 
     /**
