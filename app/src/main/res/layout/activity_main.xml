@@ -45,7 +45,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Historia"
-                    android:textColor="@color/semiWhite"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:gravity="center"
                     android:layout_marginTop="15dp" />
@@ -70,7 +70,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Búsqueda"
-                    android:textColor="@color/semiWhite"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:gravity="center"
                     android:layout_marginTop="15dp" />

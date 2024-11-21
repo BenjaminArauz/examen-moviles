@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="primarioOscuro">#1769aa</color>
-    <color name="primario">#2196f3</color>
+    <color name="primario">#D1CAC2</color>
     <color name="primarioSuave">#4dabf5</color>
     <color name="acento">#b2102f</color>
     <color name="acentoVariante1">#ff1744</color>
